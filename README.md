@@ -87,7 +87,7 @@ Program ini mendemonstrasikan konsep:
 
 # LATIHAN 2
 
-
+![Screenshot 2024-11-04 105215](https://github.com/user-attachments/assets/8ef56071-0b18-4bf3-9a19-8135b055ab66)
 
 1. **Inisialisasi**
    ```python
