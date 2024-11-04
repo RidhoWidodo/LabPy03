@@ -85,6 +85,10 @@ Program ini mendemonstrasikan konsep:
 
 - Saya akan menjelaskan alur algoritma dari kode perhitungan laba tersebut:
 
+# LATIHAN 2
+
+
+
 1. **Inisialisasi**
    ```python
    laba_bulanan = []  # Array kosong untuk menyimpan laba per bulan
