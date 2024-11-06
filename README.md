@@ -190,7 +190,7 @@ Program ini mendemonstrasikan konsep:
 
  # LATIHAN 3
   
-[Screenshot 2024-11-04 110734](https://github.com/user-attachments/assets/ae766bfc-bc1e-4d76-8924-2380393d2250) 
+  
 
 1. **Inisialisasi Program**
    ```python
