@@ -22,7 +22,7 @@ Saya akan menjelaskan alur algoritma dari kode tersebut secara terstruktur:
            - Tidak melakukan apa-apa
            - Kembali ke langkah 1
    ```
-
+ 
 3. **Kondisi Terminasi**
    - Loop berhenti ketika counter > N
    - Tampilkan "Selesai"
@@ -84,7 +84,7 @@ Program ini mendemonstrasikan konsep:
 - Format string untuk output
 
 - Saya akan menjelaskan alur algoritma dari kode perhitungan laba tersebut:
-
+ 
 # LATIHAN 2
 
 ![Screenshot 2024-11-04 105215](https://github.com/user-attachments/assets/8ef56071-0b18-4bf3-9a19-8135b055ab66)
